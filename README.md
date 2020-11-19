@@ -1,2 +1,2 @@
 # dralexcrist_notebooks
-My notebooks on my website, dralexcrist.com
+The notebooks on my website, dralexcrist.com
